@@ -1,32 +1,46 @@
-DSY1105 – Desarrollo de Aplicaciones Móviles
+<h1 align="center">DSY1105 – Desarrollo de Aplicaciones Móviles</h1>
 
-Repositorio oficial para la asignatura DSY1105 - Desarrollo de Aplicaciones Móviles.
+<p align="center">
+  Repositorio oficial de la asignatura <b>DSY1105 – Desarrollo de Aplicaciones Móviles</b>
+</p>
 
-Proyecto: TecMundo
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-Aplicación móvil desarrollada como parte de los talleres y evaluaciones del curso.
+---
 
-Tecnologías utilizadas
+## Proyecto: TecMundo
 
-Entorno de desarrollo: Android Studio
+**TecMundo** es una aplicación móvil desarrollada como parte de los talleres y evaluaciones del curso.
 
-Lenguaje: Java / Kotlin
+## 🛠️ Tecnologías utilizadas
 
-Control de versiones: Git & GitHub
+| Categoría | Tecnología |
+|-----------|------------|
+| Entorno de desarrollo | Android Studio |
+| Lenguaje | Java / Kotlin |
+| Control de versiones | Git & GitHub |
 
-Cómo clonar e importar el proyecto
+## 📥 Cómo clonar e importar el proyecto
 
-Clonar el repositorio:
+### 1. Clonar el repositorio
 
+```bash
 git clone https://github.com/NATOcl/DSY1105-MUNISJ.git
+```
 
+### 2. Abrir en Android Studio
 
-Abrir en Android Studio:
+1. Abre **Android Studio**.
+2. Selecciona **Open** y navega hasta la carpeta descargada (`TecMundo`).
+3. Espera a que **Gradle** sincronice todas las dependencias del proyecto.
+4. Ejecuta la aplicación en un **emulador** o **dispositivo físico** Android.
 
-Abre Android Studio.
+---
 
-Selecciona Open y navega hasta la carpeta descargada (TecMundo).
-
-Espera a que Gradle sincronice todas las dependencias del proyecto.
-
-Ejecuta la aplicación en un emulador o dispositivo físico Android.
+<p align="center">Hecho con ❤️ para DSY1105</p>
