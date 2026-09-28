@@ -26,7 +26,7 @@
 
 ## Proyecto: Shiva
 
-**Shiva** es una aplicación móvil desarrollada como parte de los talleres y evaluaciones del curso.
+**Shiva** es una aplicación móvil desarrollada como parte de la evaluaciones del curso.
 
 ## Tecnologías utilizadas
 
