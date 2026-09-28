@@ -18,7 +18,7 @@
 
 **TecMundo** es una aplicación móvil desarrollada como parte de los talleres y evaluaciones del curso.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 | Categoría | Tecnología |
 |-----------|------------|
@@ -26,7 +26,7 @@
 | Lenguaje | Java / Kotlin |
 | Control de versiones | Git & GitHub |
 
-## 📥 Cómo clonar e importar el proyecto
+## Cómo clonar e importar el proyecto
 
 ### 1. Clonar el repositorio
 
