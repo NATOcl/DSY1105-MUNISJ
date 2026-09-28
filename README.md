@@ -2,11 +2,11 @@ DSY1105 – Desarrollo de Aplicaciones Móviles
 
 Repositorio oficial para la asignatura DSY1105 - Desarrollo de Aplicaciones Móviles.
 
-📱 Proyecto: TecMundo
+Proyecto: TecMundo
 
 Aplicación móvil desarrollada como parte de los talleres y evaluaciones del curso.
 
-🛠️ Tecnologías utilizadas
+Tecnologías utilizadas
 
 Entorno de desarrollo: Android Studio
 
@@ -14,7 +14,7 @@ Lenguaje: Java / Kotlin
 
 Control de versiones: Git & GitHub
 
-🚀 Cómo clonar e importar el proyecto
+Cómo clonar e importar el proyecto
 
 Clonar el repositorio:
 
