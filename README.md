@@ -41,7 +41,7 @@
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/NATOcl/DSY1105-MUNISJ.git
+git clone https://github.com/NATOcl/DSY1105-Shiva
 ```
 
 ### 2. Abrir en Android Studio
