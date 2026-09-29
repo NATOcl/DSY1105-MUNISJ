@@ -47,7 +47,7 @@ git clone https://github.com/NATOcl/DSY1105-Shiva
 ### 2. Abrir en Android Studio
 
 1. Abre **Android Studio**.
-2. Selecciona **Open** y navega hasta la carpeta descargada (`TecMundo`).
+2. Selecciona **Open** y navega hasta la carpeta descargada (`Shiva`).
 3. Espera a que **Gradle** sincronice todas las dependencias del proyecto.
 4. Ejecuta la aplicación en un **emulador** o **dispositivo físico** Android.
 
